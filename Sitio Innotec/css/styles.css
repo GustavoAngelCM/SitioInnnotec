@@ -30,7 +30,7 @@
 .bg-dark{
     background-color: rgba(1, 1, 2, 0.18)!important;
     border-bottom: 1px solid rgba(1, 1, 2, 0.18) !important;
-    box-shadow: 0 6px 12px rgba(0,0,0,.175); */
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
     -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
 }
 .bg-dark.fixed {
